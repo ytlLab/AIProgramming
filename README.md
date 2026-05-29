@@ -9,6 +9,6 @@
 #### [ch06_爬蟲技術與網路資料抓取](https://github.com/ytlLab/AIProgramming/blob/main/ch06.md)
 #### [ch07_即時台股/市場趨勢看板](https://github.com/ytlLab/AIProgramming/blob/main/ch07.md)
 #### [ch08_Google Apps Script (GAS) 開發](https://github.com/ytlLab/AIProgramming/blob/main/ch08.md)
-#### [ch09_](https://github.com/ytlLab/AIProgramming/blob/main/ch09.md)
+#### [ch09_自動化通知系統](https://github.com/ytlLab/AIProgramming/blob/main/ch09.md)
 
 ---
